@@ -4,4 +4,13 @@ Smart India Hackathon project
 ![Alt text](https://github.com/leonado10000/EWFL/blob/main/sih.png)
 # Youtube Link	
 # Dataset Link
-[NA](https://github.com/leonado10000/EWFL)https://github.com/leonado10000/EWFL
+[](https://github.com/leonado10000/EWFL)https://github.com/leonado10000/EWFL
+
+# people
+###  1. Frontend
+        - Praveena
+        - Venky
+###  1. Backend
+        - NG
+        - Mobi
+        - Rahul
