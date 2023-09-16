@@ -44,7 +44,7 @@ The accumulation of electronic waste (e-waste) is a growing concern for the envi
 - **Frontend:** HTML, CSS, JavaScript, React.js
 - **Backend:** Django
 - **Database:** SQL
-- **Payment Processing:** [Stripe](https://stripe.com/) (for handling money transfers)
+<!-- - **Payment Processing:** [Stripe](https://stripe.com/) (for handling money transfers) -->
 - **Geolocation:** Geocoding API (e.g., Google Maps Geocoding API)
   <!-- - **User Authentication:** Firebase Authentication (or custom authentication) -->
   <!-- - **Data Visualization (optional):** D3.js -->
