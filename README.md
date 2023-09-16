@@ -44,11 +44,11 @@ The accumulation of electronic waste (e-waste) is a growing concern for the envi
 - **Frontend:** HTML, CSS, JavaScript, React.js
 - **Backend:** Django
 - **Database:** SQL
-<!-- - **Payment Processing:** [Stripe](https://stripe.com/) (for handling money transfers) -->
 - **Geolocation:** Geocoding API (e.g., Google Maps Geocoding API)
-  <!-- - **User Authentication:** Firebase Authentication (or custom authentication) -->
-  <!-- - **Data Visualization (optional):** D3.js -->
-- **Hosting and Deployment:** AWS RDS (for database), <!--AWS/Netlify (for website hosting) -->
+- **Hosting and Deployment:** AWS RDS (for database) , AWS/Netlify (for website hosting)
+  <!-- - **Payment Processing:** [Stripe](https://stripe.com/) (for handling money transfers) -->
+    <!-- - **User Authentication:** Firebase Authentication (or custom authentication) -->
+    <!-- - **Data Visualization (optional):** D3.js -->
 
 ## Usage
 
@@ -74,7 +74,7 @@ This project is a collaborative effort by a dedicated team of individuals with e
   - Thokchom Mobisana
 
 - **Database Management:**
-  - [Your Name]
+  - Sathvik N G
 
 We appreciate the hard work and commitment of each team member in bringing this project to life.
 
