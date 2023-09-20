@@ -65,7 +65,7 @@ This project is a collaborative effort by a dedicated team of individuals with e
 
 - **Frontend Development:**
 
-  - Praveen Kumar
+  - Praveenkumar
   - Venkatesh Rayadu
 
 - **Backend Development:**
